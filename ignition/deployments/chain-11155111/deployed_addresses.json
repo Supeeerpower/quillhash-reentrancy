@@ -1,0 +1,6 @@
+{
+  "ProxyModule#VulnerableContract": "0x39Ef0aDd593438b0f63d782144E4618479ac65F5",
+  "ProxyModule#TransparentUpgradeableProxy": "0x358F2ef577C434378A91D3bAc07Ee41447e1f64C",
+  "ProxyModule#AttackContract": "0x34e2e70539610E60d94bF30f34B9D26700b34575",
+  "ProxyModule#ProxyAdmin": "0x46E9ADC79C858c59f4E398391eC2e2f9b51E2724"
+}
